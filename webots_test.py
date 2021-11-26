@@ -52,7 +52,7 @@ def openWebots(world):
 
     time.sleep(1)
 
-    subprocess.Popen(minimize, shell=True)
+    #subprocess.Popen(minimize, shell=True)
 
 def killWebots():
     script = """#!/bin/bash
