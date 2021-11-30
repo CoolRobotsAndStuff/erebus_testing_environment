@@ -42,7 +42,7 @@ def loadController(controller):
 
 def openWebots(world):
     script = f"""#!/bin/bash
-    xvfb-run webots --stdout --stderr --batch --mode=realtime --no-sandbox {world}
+    xvfb-run webots --stdout --stderr --batch --mode=fast --no-sandbox {world}
     """
 
     minimize = """#!/bin/bash
