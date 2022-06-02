@@ -9,5 +9,3 @@
 * Webots R2021a
 
 * Python 3.8
-
-* xdotool
