@@ -1,5 +1,5 @@
 {
-    "erebus_directory": "./erebus",
+    "erebus_directory": "./erebus-master",
     "controller": "home/myfolder/erebus_controller",
     "world_set": "./world_sets/my_worlds.txt",
     "reps":1,

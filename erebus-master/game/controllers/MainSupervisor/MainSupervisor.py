@@ -1,3 +1,5 @@
+start_automatically = True
+
 """Supervisor Controller
    Written by Robbie Goldman and Alfred Roberts
 """
@@ -2101,7 +2103,10 @@ if __name__ == '__main__':
                   f.write(','.join(message.split(",")[1:]))
                   f.close()
 
-        
+        if start_automatically:
+          # Start running the match
+          currentlyRunning = True
+          gameStarted = True
 
         # If the match is running
         if robotInitialized and currentlyRunning and not finished:

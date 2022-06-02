@@ -1,5 +1,5 @@
 {
-    "erebus_directory": "./erebus",
+    "erebus_directory": "./erebus-master",
     "controller": "/home/ale/rescate_laberinto/Competencias/Robocup_2022backup/FinalCode/FinalCode.py",
     "world_set": "./world_sets/test_set.txt",
     "reps":1,
