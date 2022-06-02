@@ -1,3 +1,0 @@
-controller=./controller.py
-worlds=./first11worlds.txt
-reps=1
