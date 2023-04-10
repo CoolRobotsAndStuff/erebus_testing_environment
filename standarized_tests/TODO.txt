@@ -1,0 +1,5 @@
+1- Generar mapas donde se puedan evaluar:
+2- Validar que el robot pase por lugares donde el margen entre el tamaño del robot y las paredes sea pequeño
+   (definir punto de partida y llegada del robot)
+3- Caso donde tenga un espacio muy abierto, ver que el robot se ajuste a las limitaciones de la camara y no al camino optimo 
+   (es decir validar que no se pierda ninguna victima por ir en forma recta al destino)
