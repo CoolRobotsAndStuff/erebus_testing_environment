@@ -244,9 +244,9 @@ function setDisableRemoteBtn() {
 }
 
 function startup (){
-	resetHistory();
-	unloadedController(0);
-	unloadedController(1);
+	//resetHistory();
+	//unloadedController(0);
+	//unloadedController(1);
 	//Turn on the run button and reset button when the program has loaded
 	//Modified file:
 		//Disabled all the loading buttons (cannot change loaded controllers once simulation starts)
