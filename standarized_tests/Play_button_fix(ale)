@@ -1,0 +1,24 @@
+archivo a tocar:
+erebus/game/plugins/robot_windows/MainSupervisorWindow/MainSupervisorWindow.js
+
+Revisar si se debe agregar este mismo codigo:
+< 	
+< 	//Disable all the loading buttons (cannot change loaded controllers once simulation starts)
+< 	setEnableButton("load0", false);
+< 	setEnableButton("unload0", false);
+< 	
+< 	setEnableButton("load1", false);
+< 	setEnableButton("unload1", false);
+< 	//When the run button is pressed
+< 	//Disable the run button
+< 	setEnableButton("runButton", false);
+< 	//Send a run command
+< 	//Enable the pause button
+< 	setEnableButton("pauseButton", true);
+< 	
+< 	// setEnableButton('quit0', true)
+< 	setEnableButton('lopButton', true)
+< 
+< 	setEnableButton("giveupB", true);
+< 	window.robotWindow.send("run");
+< 	
