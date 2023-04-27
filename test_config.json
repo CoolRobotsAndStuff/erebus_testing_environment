@@ -1,7 +1,7 @@
 {
-    "erebus_directory": "./erebus-master",
-    "controller": "/home/ale/rescate_laberinto/Competencias/Robocup_2022backup/FinalCode/FinalCode.py",
-    "world_set": "./world_sets/test_set.txt",
+    "erebus_directory": "./Erebus-v23_0_3",
+    "controller": "dirección del controlador de ale",
+    "world_set": "./world_sets/first_8_worlds.txt",
     "reps":1,
-    "run_name": "my_run2"
+    "run_name": "run_1"
 }
