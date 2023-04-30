@@ -1,6 +1,6 @@
 {
     "erebus_directory": "./Erebus-v23_0_3",
-    "controller": "dirección del controlador de ale",
+    "controller": "/home/ale/IITA/rescate_laberinto/src/run.py",
     "world_set": "./world_sets/first_8_worlds.txt",
     "reps":1,
     "run_name": "run_1"
