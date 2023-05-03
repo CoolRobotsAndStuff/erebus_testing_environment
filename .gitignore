@@ -6,7 +6,7 @@ world_gen/map.png
 
 world_gen/generatedWorld.wbt
 
-erebus-master/game/worlds/.*.wbproj
+*.wbproj
 
 *.cache
 
